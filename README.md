@@ -1,7 +1,3 @@
-# quantitative-portfolio-analysis
-
-Quantitative analysis of a 10-asset equity universe using MPT, CAPM, and BSM models in Python.
-
 # Quantitative Equity Analysis & Option Pricing
 
 **Portfolio Optimization, Risk Decomposition (CAPM), and BSM Modeling**
@@ -52,10 +48,6 @@ The analysis is divided into four core pillars:
 - `analysis.ipynb`: The core Python implementation.
 - `report.pdf`: A formal academic write-up of the findings and economic interpretations.
 - `requirements.txt`: List of necessary Python packages.
-
-## 📈 Sample Results
-
-_(Tip: Insert a screenshot here of your Efficient Frontier plot or your Correlation Heatmap from the notebook)_
 
 ---
 
